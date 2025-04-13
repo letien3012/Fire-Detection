@@ -1,0 +1,5 @@
+Flask
+ultralytics
+torch
+opencv-python
+Flask-WTF
